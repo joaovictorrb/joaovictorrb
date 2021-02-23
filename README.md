@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hi there, I am João Victor, known as Cabelo or Cassino. 
 
-<!--
-**joaovictorrb/joaovictorrb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Nowadays, I am in the last year of my undergraduate degree in computer science. I also work as a trainee level IT Technician at Irriga Global, in web development focused on the backend using JS.  👋
 
-Here are some ideas to get you started:
+- 💬 Contact:
+  - LinkedIn: https://www.linkedin.com/in/jo%C3%A3o-victor-brum-411939198/
+  - Email: joaovrb.rs@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Lately, I have been studying frontend and backend with Origamid's course and udemy, respectively, to start a major project of mine.
+
+- I am looking to collaborate on backend projects using nodeJs.
+
+- ⚡ Leisure:
+  - I like to play games, to the point that I started a streaming channel on twitch.
+  - I enjoy reading Historical novel books.
