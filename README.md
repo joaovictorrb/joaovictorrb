@@ -2,7 +2,7 @@
 
 ### Nowadays, I am in the last year of my undergraduate degree in computer science. I also work as a trainee level IT Technician at Irriga Global, in web development focused on the backend using JS.  👋
 
-- Lately, I have been studying frontend and backend with Origamid's course and udemy, respectively, to start a major project of mine.
+- Lately, I have been focusing on my final paper.
 
 - I am looking to collaborate on backend projects using nodeJs.
 
