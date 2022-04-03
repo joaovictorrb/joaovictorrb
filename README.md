@@ -12,3 +12,10 @@
 - 💬 Contact:
   - LinkedIn: https://www.linkedin.com/in/jo%C3%A3o-victor-brum-411939198/
   - Email: joaovrb.rs@gmail.com
+
+
+- Skills
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaovictorrb&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaovictorrb&show_icons=true&theme=aura)
