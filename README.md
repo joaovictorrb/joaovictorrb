@@ -1,12 +1,13 @@
 ## Hi there, I am João Victor, known as Cabelo or Cassino. 
 
-### I am in the last semester of my undergraduate degree in computer science. I also work as a intern at IBM.  👋
+### BA Computer Scientist. Application Developer Fullstack (I prefer to work with the backend tho) .  👋
 
 - I am looking to collaborate on backend projects using nodeJs.
 
 - ⚡ Leisure:
   - I like to play games.
   - I enjoy reading Historical novel books.
+  - I enjoy reading economics books.
   - I started to learn about stock market
 
 - 💬 Contact:
