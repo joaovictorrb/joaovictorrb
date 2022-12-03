@@ -1,4 +1,4 @@
-## Hi there, I am João Victor, known as Cabelo or Cassino. 
+## Hi there, I am João Victor, known as Cabelo. 
 
 ### BA Computer Scientist. Application Developer Fullstack (I prefer to work with the backend tho) .  👋
 
@@ -12,7 +12,7 @@
 
 - 💬 Contact:
   - LinkedIn: https://www.linkedin.com/in/jo%C3%A3o-victor-brum-411939198/
-  - Email: joaovrb.rs@gmail.com
+  - Email: joaovrb.rs.2@gmail.com
 
 
 - Skills
