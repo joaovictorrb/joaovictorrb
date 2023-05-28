@@ -51,7 +51,7 @@
   <p align="center">
    <ul>
      <li>
-       I am currently learning NestJS. While reading the documentation, I am passing the knowledge to a nest project, where I will make it as complete as possible.
+       I am currently learning NestJS.
      </li>
      <li>
        I love gaming, and I started doing streams on twitch
